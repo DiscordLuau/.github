@@ -6,7 +6,7 @@
 
 ## About
 
-The DiscordLuau project is a series of repositories that enable [Lua(u)](https://luau-lang.org/) developers to write things such as Discord Bots & Activities. Imagine this resource as an alternative to Discord.py, Discord.js, however - in Luau!
+The DiscordLuau project is a series of repositories that enable [luau](https://luau-lang.org/) developers to write things such as Discord Bots & Activities. Imagine this resource as an alternative to Discord.py, Discord.js, however - in Luau!
 
 > [!CAUTION]
 > Discord-Luau is yet to reach a `0.1.0` version on _ANY_ of it's repositories, any/all repositories are subject to major changes and should not be relied upon for a production application.
