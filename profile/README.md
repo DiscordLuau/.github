@@ -15,3 +15,7 @@ The DiscordLuau project is a series of repositories that enable [luau](https://l
 
 - [Discord API Wrapper](https://github.com/DiscordLuau/Discord-Luau)
 - [Discord API Wrapper Documentation](https://github.com/DiscordLuau/docs)
+
+### Documentation
+
+- [Documentation](https://discord-luau-docs.deno.dev)
