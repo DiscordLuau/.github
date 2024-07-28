@@ -1,30 +1,14 @@
 <div align="center">
 	<p>
-		<a href=""><img src="https://raw.githubusercontent.com/DiscordLuau/.github/master/resource/DiscordLuau-Banner.png" width="512" alt="discord-luau"/></a>
+		<img align="right" src="https://raw.githubusercontent.com/DiscordLuau/docs/master/src/assets/vector.svg" width="256" alt="discord-luau"/>
 	</p>
 </div>
 
-## About
-
-The DiscordLuau project is a series of repositories that enable [luau](https://luau-lang.org/) developers to write things such as Discord Bots & Activities. Imagine this resource as an alternative to discord.py, discord.js, however - in luau!
+# About
+The DiscordLuau project is a collection of packages that enable developers to create Discord bots using the [Luau](https://luau-lang.org/) language, powered by the [Lune](https://lune-org.github.io/docs/) runtime.
 
 > [!CAUTION]
-> Discord-Luau is yet to reach a `0.1.0` version on _ANY_ of it's repositories, any/all repositories are subject to major changes and should not be relied upon for a production application.
+> Here be dragons! DiscordLuau is yet to reach a stable `0.1.0` version on _ANY_ of its repositories, and breaking changes may often be made without warning. It is not recommended for use in production environments.
 
-### Repositories
+### [read the docs!](https://discord-luau-docs.deno.dev)
 
-- [Discord API Wrapper](https://github.com/DiscordLuau/Discord-Luau)
-- [Discord API Wrapper Documentation](https://github.com/DiscordLuau/docs)
-
-### Documentation
-
-- [Documentation](https://discord-luau-docs.deno.dev)
-
-### Special Thanks
-A sub-section just to credit people who have committed to the Discord Luau project and cannot be represented through the GitHub contributors section.
-
-#### Icon & Design
-- [Dekkonot](https://github.com/Dekkonot) - Tilt concept
-- [BlizzarBlitz](https://github.com/BizzarBlitz) - Figma troubleshooting & ideas
-- [kalrnlo](https://github.com/kalrnlo) - Red ping dot
-- [CompeyDev](https://github.com/CompeyDev) - Design prototype
