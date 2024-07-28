@@ -19,3 +19,10 @@ The DiscordLuau project is a series of repositories that enable [luau](https://l
 ### Documentation
 
 - [Documentation](https://discord-luau-docs.deno.dev)
+
+### Special Thanks
+A sub-section just to credit people who have committed to the Discord Luau project and cannot be represented through the GitHub contributors section.
+
+#### Icon & Design
+- [Dekkonot](https://github.com/Dekkonot)
+- [BlizzarBlitz](https://github.com/BizzarBlitz)
